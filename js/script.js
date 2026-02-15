@@ -6,7 +6,7 @@ async function getUser() {
   const response = await fetch('https://randomuser.me/api/');
   const data = await response.json();
 
-  console.log(date);
+
 
   const user = date.results[0];
 
