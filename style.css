@@ -1,3 +1,13 @@
+body {
+
+      background: linear-gradient(135deg, #001F3F 0%, #FFFFFF 100%);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+
+
+
 h1 {
 	text-align: center;
 }
