@@ -5,12 +5,6 @@ background: linear-gradient(180deg, #FFD700 0%, #800080 100%);
   background-attachment: fixed;
 }
 
-
-
-
 h1 {
 	text-align: center;
-}
-.onclick {
-	text-align: center;	
 }
